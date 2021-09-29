@@ -10,5 +10,5 @@ note utiliza el mismo motor que JS por lo que se puede aplicar todo lo que se co
 <p>app2 instrucciones bloqueantes.</p>
 <p>app3 instrucciones no bloqueantes. Por ese motivo se realiza en menos tiempo. Establece el callback en un stack, en una pila de callbacks</p> 
 
-<h5>node nodemon</h5>
+<h4>node nodemon</h4>
 <p>paquete npm install -g nodemon(para ejecutarlo de manera global). Para visualizar todas las modificaciones de manera automatica en node. No hay que volver a llamar el archivo con cada nuevo cambio. Sólo es para visualizar en desarrollo,<b> no en producción</b>, ya que necesitamos los errores de node</p>
